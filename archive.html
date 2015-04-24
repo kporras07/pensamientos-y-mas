@@ -6,26 +6,43 @@ title: Archivo
 <div class="home">
 
   <h1>Archivo:</h1>
-  <ul class="categories">
-    {% for post in site.posts %}
-      {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
-      {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
-      {% if month != nmonth %}
-        <h3>{{ post.date | date: '%B %Y' }}</h3>
+  {% for post in site.posts  %}  
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+
+    {% if forloop.first %}
+      <h2>{{this_year}}</h2>
+      <h3>{{this_month}}</h3>
+      <ul>
+    {% endif %}
+
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
+      <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+      {{ post.excerpt }}
+      <div class="continue">
+        <a href="{{ post.url | prepend: site.baseurl }}">&bull;&bull;&bull;</a>
+      </div>
+    </li>
+
+    {% if forloop.last %}
+      </ul>
+    {% else %}
+      {% if this_year != next_year %}
+        </ul>
+        <h2>{{next_year}}</h2>
+        <h3>{{next_month}}</h3>
         <ul>
+      {% else %}
+        {% if this_month != next_month %}
+          </ul>
+          <h3>{{next_month}}</h3>
+          <ul>
+        {% endif %}
       {% endif %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        {{ post.excerpt }}
-        <div class="continue">
-          <a href="{{ post.url | prepend: site.baseurl }}">&bull;&bull;&bull;</a>
-        </div>
-      </li>
-      {% if forloop.index != 1 %}
-        </ul></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+    {% endif %}
+  {% endfor %}
 
 </div>
