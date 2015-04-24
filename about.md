@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de
+permalink: /acerca-de/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Este blog surgió con la idea de plasmar en algún lado las ideas que discurrían por mi mente y que se iban quedando entre papeles, notas en el teléfono, y archivos en la PC; la idea es empezar a ponerlas en un sólo lugar.

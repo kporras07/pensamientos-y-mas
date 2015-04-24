@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Inicio
 ---
 
 <div class="home">
@@ -18,22 +18,24 @@ title: Home
     {% endfor %}
   </ul>
 
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      {% if page == 2 %}
-        <a class="page-link" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">prv</a>
+  {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        {% if page == 2 %}
+          <a class="page-link" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">prv</a>
+        {% else %}
+          <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">prv</a>
+        {% endif %}
       {% else %}
-        <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">prv</a>
+        <span class="page-link">prv</span>
       {% endif %}
-    {% else %}
-      <span class="page-link">prv</span>
-    {% endif %}
 
-    {% if paginator.next_page %}
-      <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">nxt</a>
-    {% else %}
-      <span class="page-link">nxt</span>
-    {% endif %}
-  </div>
+      {% if paginator.next_page %}
+        <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">nxt</a>
+      {% else %}
+        <span class="page-link">nxt</span>
+      {% endif %}
+    </div>
+  {% endif %}
 
 </div>

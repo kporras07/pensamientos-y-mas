@@ -11,32 +11,10 @@ body
 .container
   max-width: 30em
   background: #ffe
-  box-shadow: 0 0 .7em rgba(0,0,0,0.5)
   margin: 3em auto
   padding: 5em
   position: relative
   width: 60%
-  &:before, &:after
-    content: ""
-    height: 98%
-    position: absolute
-    width: 100%
-    z-index: -1
-  &:before
-    background: #ffe
-    box-shadow: 0 0 .5em rgba(0,0,0,0.5)
-    left: -0.3em
-    top: .25em
-    transform: rotate(-2.5deg)
-    -webkit-transform: rotate(-2.5deg)
-  &:after
-    background: #ffe
-    box-shadow: 0 0 .2em rgba(0,0,0,0.5)
-    right: -0.25em
-    top: .05em
-    transform: rotate(1.4deg)
-    -webkit-transform: rotate(1.4deg)
-
   @media screen and (max-width: 600px)
     padding: 4em
 
@@ -89,6 +67,9 @@ footer
   text-align: center
   .author
     margin-bottom: 2em
+  .license
+    img
+      display: none
 
 /* Pagination */
 .pagination
