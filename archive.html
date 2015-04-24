@@ -1,0 +1,31 @@
+---
+layout: default
+title: Archivo
+---
+
+<div class="home">
+
+  <h1>Archivo:</h1>
+  <ul class="categories">
+    {% for post in site.posts %}
+      {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+      {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+      {% if month != nmonth %}
+        <h3>{{ post.date | date: '%B %Y' }}</h3>
+        <ul>
+      {% endif %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+        {{ post.excerpt }}
+        <div class="continue">
+          <a href="{{ post.url | prepend: site.baseurl }}">&bull;&bull;&bull;</a>
+        </div>
+      </li>
+      {% if forloop.index != 1 %}
+        </ul></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>
