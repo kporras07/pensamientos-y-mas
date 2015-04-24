@@ -1,0 +1,114 @@
+---
+---
+
+/* General Layout and Background */
+body
+  background: url(../images/bg.png)
+  font-family: monospace
+  line-height: 170%
+  font-size: 1.1em
+
+.container
+  max-width: 30em
+  background: #ffe
+  box-shadow: 0 0 .7em rgba(0,0,0,0.5)
+  margin: 3em auto
+  padding: 5em
+  position: relative
+  width: 60%
+
+.container:before, .container:after
+  content: ""
+  height: 98%
+  position: absolute
+  width: 100%
+  z-index: -1
+
+.container:before
+  background: #ffe
+  box-shadow: 0 0 .5em rgba(0,0,0,0.5)
+  left: -0.3em
+  top: .25em
+  transform: rotate(-2.5deg)
+  -webkit-transform: rotate(-2.5deg)
+
+.container:after
+  background: #ffe
+  box-shadow: 0 0 .2em rgba(0,0,0,0.5)
+  right: -0.25em
+  top: .05em
+  transform: rotate(1.4deg)
+  -webkit-transform: rotate(1.4deg)
+
+@media screen and (max-width: 600px)
+  div.container
+    padding: 4em
+
+/* Links and Navigation */
+a
+  color: #C00
+  text-decoration: none
+
+.page-link
+  font-weight: bold
+
+a.page-link:hover
+  border-bottom: .2em solid #C00
+
+.navlist
+  padding: 0
+
+.navlist > li
+  display: inline
+  list-style-type: none
+  padding-right: .8em
+
+/* Headers */
+h1, h2, h3, h4, h5, h6
+  font-size: 1em
+
+h1
+  text-transform: uppercase
+  font-weight: bold
+  text-decoration: underline
+
+h2
+  font-weight: bold
+  text-decoration: underline
+
+h3
+  font-weight: bold
+
+.header
+  text-align: center
+  margin-bottom: 4.25em
+
+.header > h1
+  letter-spacing: .7em
+  margin-bottom: .7em
+  text-decoration: none
+  font-size: 1.2em
+
+/* Posts List */
+.posts
+  padding-left: 0
+
+.posts > li
+  list-style-type: none
+
+/* Footer */
+footer
+  margin-top: 4.25em
+  text-align: center
+
+/* Pagination */
+.pagination
+  text-align: center
+
+.pagination > a, .pagination > span
+  margin: 2.5em .8em
+
+/* Continue Reading */
+.continue
+  text-align: center
+  margin-top: 1.5em
