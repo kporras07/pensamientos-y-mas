@@ -15,9 +15,9 @@ links:
     url: /
   - title: "Categorías"
     url: /categorias
+  - title: "Archivo"
+    url: /archivo
   - title: "Acerca de"
     url: /acerca-de
-  - title: "Twitter"
-    url: http://twitter.com/kporras07
   - title: "Rss"
     url: /feed.xml
