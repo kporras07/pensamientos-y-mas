@@ -1,0 +1,38 @@
+---
+layout: default
+title: Categorías
+---
+
+<div class="home">
+
+  <h1>Categorías:</h1>
+  <ul class="categories">
+    {% for category in site.categories %}
+      <li><a href="#{{ category | first }}">{{ category | first }}</a></li>
+    {% endfor %}
+  </ul>
+  <h1>Publicaciones por Categoría:</h1>
+  <ul>
+      {% for category in site.categories %}
+        <li><a name="{{ category | first }}">{{ category | first }}:</a>
+          <ul class="posts">
+            {% for posts in category %}
+              {% for post in posts %}
+                {% if post.title %}
+                  <li>
+                    <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
+                    <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+                    {{ post.excerpt }}
+                    <div class="continue">
+                      <a href="{{ post.url | prepend: site.baseurl }}">&bull;&bull;&bull;</a>
+                    </div>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+  </ul>
+
+</div>

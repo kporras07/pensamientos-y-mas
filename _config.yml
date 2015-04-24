@@ -13,6 +13,8 @@ paginate: 3
 links:
   - title: "Inicio"
     url: /
+  - title: "Categorías"
+    url: /categorias
   - title: "Acerca de"
     url: /acerca-de
   - title: "Twitter"
