@@ -6,7 +6,7 @@ url: "http://pensamientos.kporras07.tk"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:year/:month/:day/:title
 paginate: 3
 
 # Links
