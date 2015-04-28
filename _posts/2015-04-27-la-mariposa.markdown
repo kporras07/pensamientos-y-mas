@@ -1,11 +1,11 @@
 ---
 title: La Mariposa
-tags: libertad, mariposa, humanidad
+tags: "libertad, mariposa, humanidad"
 category: Historias Cortas
+published: true
+layout: post
 ---
 
-
-##La Mariposa
 Me subí al bus y por el calor la reacción inmediata fue abrir la ventana.
 Cuando me dispongo a hacerlo, veo una mariposa aparentemente prensada en el canal de la ventana, estaba tan cómoda y quieta que hasta llegué a dudar que estuviera viva.
 Cuando empecé a abrir la ventana, por supuesto que la incomodé y tuvo que salir de su zona de confort, y agitando sus alas salió volando libre por esa ventana que se acababa de abrir ante ella.
