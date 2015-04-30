@@ -1,4 +1,4 @@
-function(d, s) {
+(function(d, s) {
   var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
     if (d.getElementById(id)) {return;}
     js = d.createElement(s); js.src = url; js.id = id;
