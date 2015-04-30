@@ -7,6 +7,7 @@ author:
     twitter: "kporras07"
 authorfb: "https://www.facebook.com/kporras07"
 fbid: 1560868307491624
+share_image: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
