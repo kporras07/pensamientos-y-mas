@@ -1,5 +1,5 @@
 ---
-title: Carta \# 1
+title: Carta # 1
 category: Micronovela
 layout: post
 ---
