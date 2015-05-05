@@ -1,11 +1,8 @@
 ---
-published: true
----
-
----
 title: Ceniza
 category: Poesía
 layout: post
+published: true
 ---
 
 Cual lluvia de ceniza al caminar
