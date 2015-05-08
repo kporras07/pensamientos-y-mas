@@ -1,7 +1,7 @@
 ---
 title: Hágalo por Convicción
 tags: "convicción, ideal"
-category: Historias Cortas
+category: Sabiduría de Vida
 published: true
 layout: post
 ---
