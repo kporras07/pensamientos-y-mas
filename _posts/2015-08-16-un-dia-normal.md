@@ -5,8 +5,6 @@ category: Micronovela 2
 ---
 
 
-## Un día normal
-
 Parecía un día normal; o al menos así había empezado: me levanté un poco tarde; tuve que apresurarme para poder estar listo a tiempo; alistarme; caminar hacia el trabajo; nada extraordinario parecía suceder aquella mañana.
 
 Llegué al trabajo; y una montaña de papeles me esperaba en el escritorio; tal vez me equivoqué, tal vez no era un día normal; sino uno pésimo. Aquel montón de trabajo sólo había una forma de hacerle frente: café.
