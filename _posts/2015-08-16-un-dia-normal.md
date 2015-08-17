@@ -14,7 +14,7 @@ La mañana transcurrió con enorme alegría a pesar de tanto trabajo que tenía 
 
 Ese almuerzo fue el mejor en los cuatro meses que llevaba en aquel empleo; se dio cuente que Julia era aún más especial de lo que parecía, que siempre tenía una sonrisa en su rostro, y que el brillo que tenía en la mañana no parecía apagarse en todo el día. Supo además que hacía poco había llegado a la ciudad y que estaba viviendo temporalmente cerca de su casa; probablemente como a un kilómetro de distancia. La tarde de hoy será especial, pues su motivación para terminar su trabajo temprano era enorme: hoy se irían juntos; no sabía cuál de los dos se despediría primero, pero imaginarse teniendo la oportunidad de caminar con ella, sin nadie alrededor, que podría seguirla conociendo y obtener más detalles de su vida, le ilusionaba de forma terrible y lo motivaba para todo lo que quedaba de la tarde.
 
-5:00 p.m.
+### 5:00 p.m.
 - Uff, que día tan cansado; ¿estás lista?
 - Sí claro, dame unos cinco minutos para terminar de recoger mis cosas.
 - Ok, voy a ir al comedor; ahora vuelvo.
@@ -23,7 +23,7 @@ Cinco minutos, 300 segundos para pensar de qué le hablará, qué le contará, q
 
 "Te iba a buscar" dicen los dos a la vez y ambos ríen ligeramente por esa coincidencia. Estando ambos listos, él no se atrevió a decirle nada; y empiezan a caminar hacia la salida de la oficina. Por su cabeza pasan enormes ganas de huir, de no intentar nada, pero ya va de camino; ya no hay nada que pueda hacer. Un aire cargado de negatividad a su alrededor se convierte en tristeza en su interior; sin imaginarse ni remotamente lo que estaría a punto de ocurrir.
 
-5:30 p.m.
+### 5:30 p.m.
 Ha sido una plática muy amena, ambos han reído bastante, han compartido detalles básicos de sus vidas; la negatividad que él tenía acerca de sí tenía novio o no; sigue presente, pero al menos ya le tiene un poco más de confianza; ya está seguro de que ella es una muchacha amable, y que le gustaría intentar algo con ella; pero primero debe averiguar ese pequeño detalle de su vida.
 Al llegar a la entrada de una calle sin salida; donde sólo hay varios locales comerciales y al final una serie de apartamentos de alquiler; ella toma la palabra y dice:
 - Al parecer la primera que se va soy yo; vivo por aquí; hasta luego.
