@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-category: Micronovela 2
+category: "Micronovela-2"
 ---
 
 Parecía un día normal; o al menos así había empezado: me levanté un poco tarde; tuve que apresurarme para poder estar listo a tiempo; alistarme; caminar hacia el trabajo; nada extraordinario parecía suceder aquella mañana.
