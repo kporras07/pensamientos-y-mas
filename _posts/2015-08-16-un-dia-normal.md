@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 category: Micronovela 2
 ---
+
 
 ## Un día normal
 
