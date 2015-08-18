@@ -21,15 +21,20 @@ Un beso fugaz y él fue a buscar el delicioso postre, de acuerdo con la receta q
 Sólo el silencio le responde; ella toma su celular y corre en su búsqueda; su sorpresa es terrible al encontrarlo tirado en la puerta de la cocina, al parecer inconsciente; se acerca rápidamente a su pecho temiendo lo peor; pero no, gracias a Dios su corazón sigue latiendo; pero, ¿qué le ha pasado? Está inconsciente. Su mente se nubla terriblemente, no sabe qué hacer; no tiene ni una sóla idea clara. Sabe que debe llamar a alguien, pero no sabe a quien. En realidad está segura que debe llamar a varias personas; pero no tiene ni idea del orden correcto para estas llamadas; debe pensar rápido; no sabe que está pasando, pero sabe que el tiempo perdido no se puede recuperar. Debe tomar una decisión ya. Lo hace: llama al 911; una voz casi robótica le contesta al otro lado:
 
 \- Usted se ha comunicado al servicio nacional de emergencias; dígame por favor, ¿cómo puedo ayudarle? ¿cuál es su emergencia? 
+
 \- Él, él se ha caído, está inconsciente; no me habla.
+
 \- ¿Quién? ¿Qué ha pasado? ¿Cuál es su ubicación?
+
 \- Mi novio, estaba en la cocina y se cayó, lo he encontrado tirado en la puerta de la cocina.
+
 \- ¿Y cuál es su ubicación?
 
 Joder, esto no lo había pensado; ella sabe como llegar ahí; pero no sabe dar su dirección; todas las veces que ha ido, su novio la acompaña hasta su hogar o le pide un taxi; pero no tiene ni idea de la dirección.
 
 \- Un momento señorita, necesito ayuda, no sé cuál es la dirección.
 Sale en carreras hacia la calle con la esperanza de ver algún vecino, o un transeúnte a quien preguntarle la dirección de aquel lugar. En eso, ve a una vecina sacando la basura; corre hacia donde ella; de forma rápida le explica la situación y le pide que le de la dirección a la encargada de emergencias que está al otro lado de la línea. Esta accede y le devuelve el teléfono.
+
 \- Perfecto señorita, en momentos estaremos allí. Por favor no lo levante, si despierta dele agua y espere por nosotros.
 
 Cada segundo que pasa es una tortura para ella; no sabe que está pasando; sólo sabe que está perdiendo tiempo valioso que podría tener costos impagables; sabe que estos segundos podrían incluso costarle la ... No quiere ni pensarlo. ¿Dónde está la maldita ambulancia? ¿Por qué tarda tanto?
@@ -45,13 +50,19 @@ Ella ni idea tiene la importancia de la cita en la que él anda en este momento;
 
 
 \- Pasen por aquí por favor; estábamos esperando.
+
 Aquel lugar no podía ser más terrible; cinco doctores, su madre, él y una atmósfera cargada de negativismo; una vez que puso un pie dentro de ese lugar, sabía que no saldría igual de ahí; sin embargo, tenía que mantener su sonrisa para intentar tranquilizar a su madre, quien tuvo que pedir un vaso de agua para tranquilizarse apenas entró a aquel lugar. Llevaba el vaso apenas por la mitad, cuando Juan tomó la palabra:
 
 \- Estamos aquí doctor, doctores. Díganos; ¿cuál es el resultado? ¿qué tengo? ¿qué debo hacer?
+
 \- Siento mucho darle esta noticia Juan, usted es un joven valiente, un joven especial, con un futuro promisorio, pero la vida es caprichosa; y hoy, debo ser yo el encargado de dar las malas noticias.
+
 \- NOOOOOOOOOOOOOOOOO. El grito de su madre carga aún más el pesado aire de aquel lugar, y el vaso vacío cae al suelo quebrándose en mil pedazos; anticipo del estado de su corazón unos segundos después.
+
 \- Tranquila mamá, yo estoy bien; y cualquiera que sea el resultado, lo sabremos llevar entre los cuatro: María, Dios, vos y yo. Te amo mamá, pero ya sabíamos que cualquier cosa podía pasar. Díganos doctor.
+
 \- Usted tiene cancer en etapa terminal. Este ha iniciado en el colon y se ha extendido por el sistema digestivo; temo decirle que le quedan aproximadamente cuatro meses de vida. Para tratar de que estos sean lo mejor posible debemos empezar con tratamiento mañana mismo.
+
 \- Ves mamá, podría ser peor. Aún me tendrás cuatro meses más; no moriré mañana.
 
 Su madre, en medio del llanto, logra esbozar una sonrisa. Juan sigue manteniéndose positivo; tiene que ser el soporte para aquella mujer que tanto le ha dado durante toda su vida; además, tiene que buscar el momento para contarle a su amada María; pero ese momento definitivamente no puede ser hoy.
