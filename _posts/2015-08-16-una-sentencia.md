@@ -20,7 +20,7 @@ Un beso fugaz y él fue a buscar el delicioso postre, de acuerdo con la receta q
 
 Sólo el silencio le responde; ella toma su celular y corre en su búsqueda; su sorpresa es terrible al encontrarlo tirado en la puerta de la cocina, al parecer inconsciente; se acerca rápidamente a su pecho temiendo lo peor; pero no, gracias a Dios su corazón sigue latiendo; pero, ¿qué le ha pasado? Está inconsciente. Su mente se nubla terriblemente, no sabe qué hacer; no tiene ni una sóla idea clara. Sabe que debe llamar a alguien, pero no sabe a quien. En realidad está segura que debe llamar a varias personas; pero no tiene ni idea del orden correcto para estas llamadas; debe pensar rápido; no sabe que está pasando, pero sabe que el tiempo perdido no se puede recuperar. Debe tomar una decisión ya. Lo hace: llama al 911; una voz casi robótica le contesta al otro lado:
 
-\- Usted se ha comunicado al servicio nacional de emergencias; dígame por favor, ¿cómo puedo ayudarle? ¿cuál es su emergencia? 
+\- Usted se ha comunicado al servicio nacional de emergencias; dígame por favor, ¿cómo puedo ayudarle? ¿cuál es su emergencia?
 
 \- Él, él se ha caído, está inconsciente; no me habla.
 
@@ -33,6 +33,7 @@ Sólo el silencio le responde; ella toma su celular y corre en su búsqueda; su 
 Joder, esto no lo había pensado; ella sabe como llegar ahí; pero no sabe dar su dirección; todas las veces que ha ido, su novio la acompaña hasta su hogar o le pide un taxi; pero no tiene ni idea de la dirección.
 
 \- Un momento señorita, necesito ayuda, no sé cuál es la dirección.
+
 Sale en carreras hacia la calle con la esperanza de ver algún vecino, o un transeúnte a quien preguntarle la dirección de aquel lugar. En eso, ve a una vecina sacando la basura; corre hacia donde ella; de forma rápida le explica la situación y le pide que le de la dirección a la encargada de emergencias que está al otro lado de la línea. Esta accede y le devuelve el teléfono.
 
 \- Perfecto señorita, en momentos estaremos allí. Por favor no lo levante, si despierta dele agua y espere por nosotros.
