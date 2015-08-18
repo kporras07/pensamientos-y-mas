@@ -8,8 +8,10 @@ Juan era un muchacho como cualquier otro; a sus 21 años había terminado el col
 
 Hace cuatro meses; el día que cumplían seis de noviazgo; Juan le había preparado una cena especial a María; se esmeró cocinando todo lo que a ella le encantaba: una ensalada caprese como entrada, seguida de unos deliciosos spaguetti a la carbonara. De plato fuerte tenía filet de pescado a la plancha con salsa tártara y todo acompañado con un delicioso vino blanco. De postre un cheesecake que él mismo había preparado según la receta que su suegra le había brindado. Todo estaba decorado especialmente para la ocasión; él vestido elegantemente cual caballero esperando a la dama que le roba los suspiros. Al fin ella llegó; la velada especial comenzó; esa noche era mágica, especial; pero sobretodo, era una noche de ellos; y eso nadie se los podía quitar. Uno a uno fueron pasando todos los platos y ya era el momento del postre; sin lugar a dudas ambos han disfrutado la noche; pero más él, pues ha tenido la oportunidad de servirle a su amada, de cocinar para ella y de ver su cara de felicidad al probar cada platillo preparado con tanto amor.
 
-\\- Voy por el postre amor.
+\- Voy por el postre amor.
+
 \- ¿Te ayudo o te espero aquí?
+
 \- Esperame; no tardo.
 
 Un beso fugaz y él fue a buscar el delicioso postre, de acuerdo con la receta que la mamá de su reina le había brindado. Viene saliendo de la cocina con el recipiente en la mano, cuando de pronto en la sala se escucha un golpe y un tarareo de felicidad que se apaga. En ese momento la noche toma una oscuridad diferente; una que ya no invita al amor, al romanticismo, a la intimidad, sino una oscuridad con un aire de tragedia, el aire se torna denso; algo parece andar mal.
