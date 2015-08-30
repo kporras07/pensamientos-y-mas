@@ -1,9 +1,10 @@
 ---
-title: Hágalo por Convicción
+title: Decisiones
 category: Sabiduría de Vida
 published: true
 layout: post
 ---
+
 
 Regularmente la vida presenta ante nosotros decisiones que tenemos que tomar. Estas pueden ser de todos tipos: pequeñas o grandes, fáciles o difíciles, individuales o en conjunto, algunas que me afectarían sólo a mí y otras que afectarían a varias personas a mí alrededor. Sin duda las decisiones están presentes en cada momento de nuestra vida.
 
